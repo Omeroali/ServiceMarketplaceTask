@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ServiceMarketplace.API\\ServiceMarketplace.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServiceMarketplace.WebUI\\ServiceMarketplace.WebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

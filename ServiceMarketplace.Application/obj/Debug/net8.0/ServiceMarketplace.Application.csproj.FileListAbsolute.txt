@@ -1,0 +1,15 @@
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\bin\Debug\net8.0\ServiceMarketplace.Application.deps.json
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\bin\Debug\net8.0\ServiceMarketplace.Application.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\bin\Debug\net8.0\ServiceMarketplace.Application.pdb
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\bin\Debug\net8.0\ServiceMarketplace.Domain.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\bin\Debug\net8.0\ServiceMarketplace.Domain.pdb
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.csproj.AssemblyReference.cache
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.AssemblyInfoInputs.cache
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.AssemblyInfo.cs
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.csproj.CoreCompileInputs.cache
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceM.C5A64AF1.Up2Date
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\refint\ServiceMarketplace.Application.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ServiceMarketplace.Application.pdb
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Application\obj\Debug\net8.0\ref\ServiceMarketplace.Application.dll

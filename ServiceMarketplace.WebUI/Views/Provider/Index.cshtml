@@ -1,0 +1,27 @@
+﻿<div class="container">
+
+    <h2 class="title">Provider Dashboard</h2>
+
+    <div class="card">
+
+        <h3>Find Nearby Requests</h3>
+
+        <input type="number" id="providerLat" placeholder="Your Latitude" />
+        <input type="number" id="providerLng" placeholder="Your Longitude" />
+
+        <button onclick="loadNearbyRequests()">Load Nearby Requests</button>
+
+    </div>
+
+    <br />
+
+    <div class="card">
+        <h3>Available Requests</h3>
+
+        <ul id="providerRequests" class="requests"></ul>
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="/css/site.css" />
+<script src="/js/app.js"></script>

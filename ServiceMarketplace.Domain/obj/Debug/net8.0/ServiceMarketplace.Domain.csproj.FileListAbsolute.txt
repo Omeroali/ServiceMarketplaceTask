@@ -1,0 +1,11 @@
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\bin\Debug\net8.0\ServiceMarketplace.Domain.deps.json
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\bin\Debug\net8.0\ServiceMarketplace.Domain.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\bin\Debug\net8.0\ServiceMarketplace.Domain.pdb
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.AssemblyInfoInputs.cache
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.AssemblyInfo.cs
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\refint\ServiceMarketplace.Domain.dll
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ServiceMarketplace.Domain.pdb
+D:\New folder\ServiceMarketplace\ServiceMarketplace.Domain\obj\Debug\net8.0\ref\ServiceMarketplace.Domain.dll
